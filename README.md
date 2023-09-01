@@ -11,6 +11,8 @@ We present a novel method for validating generative models of temporal series. O
 ## Results 
 We consider a dataset D = {X1, . . . , XN } consisting of N i.i.d. samples from a continuous random vector. In our experiment, we choose Xi to be a random walk of size n with normally-distributed increments.
 We have examined our dataset D for all possible k-mers. Several examples of these k-mers are shown in the following plots.
+
+We observe that we can identify recurrent items in our database, regardless of their temporal or spatial dilation:
 ![Alt Text](https://github.com/c1adrien/LSH_for_neural_networks_validation/blob/main/LSH/results/area_of_interest_two_trajectory.png)
 
 
