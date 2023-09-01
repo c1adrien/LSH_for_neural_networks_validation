@@ -20,4 +20,4 @@ We observe that we can identify recurrent items in our database, regardless of t
 ![Alt Text](https://github.com/c1adrien/LSH_for_neural_networks_validation/blob/main/LSH/results/second%20pattern.png)
 
 
-Feel free to explore our code and documentation to learn more about this groundbreaking approach and its practical implications.
+Feel free to explore our code and documentation to learn more about this approach and its practical implications.
