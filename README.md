@@ -1,5 +1,7 @@
 # LSH for neural networks validation
 This project is a personal research endeavor that remains a work in progress. I extend my apologies for any errors you may come across during your exploration.
+
+## Idea
 We present a novel method for validating generative models of temporal series. Our approach involves representing the data using a combination of a CUMSUM filter and a Piecewise Aggregate Approximation (PAA), which allows us to capture the different shapes of the data while retaining its essential features.
 
 
