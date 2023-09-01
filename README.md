@@ -1,2 +1,2 @@
-# LSH_for_neural_networks_validation
+# LSH for neural networks validation
 Using local sensitive hashing to validate generative neural networks, research project 
