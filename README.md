@@ -8,7 +8,8 @@ We present a novel method for validating generative models of temporal series. O
 - Leveraging this representation and local sensitive hashing, we can identify recurrent items in our database, regardless of their temporal or spatial dilation. This results in a visual representation of diverse patterns and their associated probabilities.
 - We demonstrate the effectiveness of our approach by implementing it with a variational autoencoder.
 
-
+## Results 
+We have examined our dataset D for all possible k-mers, where k takes the values 5, 6, and 11. Several examples of these k-mers are shown in the following plots.
 ![Alt Text](https://github.com/c1adrien/LSH_for_neural_networks_validation/blob/main/LSH/results/area_of_interest_two_trajectory.png)
 
 
